@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=87
+
+Polish letters in iso-8859-2 encoding. 
+Press "~" (tilde), then [ACELNOSZXacelnoszx] to insert polish equiv.
+NEW :
+'keymap' version. Unzip the file in your $VIMRUNTIME/keymap or $HOME/.vim/keymap directory.
+You'll be able to select the new 'polish' keymap from Edit/Keymap menu.
+Activate with Edit/Keymap/polish or :set keymap=polish.
+
